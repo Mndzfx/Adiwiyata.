@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="5;url=http://pangan.smkn2kraksaan.sch.id">
+  
   <title>Redirecting...</title>
 </head>
 <body>
